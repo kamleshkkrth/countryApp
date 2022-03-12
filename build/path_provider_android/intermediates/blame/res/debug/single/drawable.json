@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cbnits-macbookair-32/Developer/countryApp/Countries/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/cbnits-macbookair-32/.gradle/caches/transforms-2/files-2.1/302389a8a46ecc535a76d16c96f99dde/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/cbnits-macbookair-32/Developer/countryApp/Countries/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/cbnits-macbookair-32/.gradle/caches/transforms-2/files-2.1/302389a8a46ecc535a76d16c96f99dde/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/cbnits-macbookair-32/Developer/countryApp/Countries/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/cbnits-macbookair-32/.gradle/caches/transforms-2/files-2.1/302389a8a46ecc535a76d16c96f99dde/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/cbnits-macbookair-32/Developer/countryApp/Countries/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/cbnits-macbookair-32/.gradle/caches/transforms-2/files-2.1/302389a8a46ecc535a76d16c96f99dde/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]
